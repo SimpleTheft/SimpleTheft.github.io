@@ -1,2 +1,2 @@
-# SimpleTheft.github.io
-SimpleTheft Official Web Game
+# SimpleTheft Web Game
+Official Website Repository
